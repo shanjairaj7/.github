@@ -41,6 +41,7 @@ uvx commune-mcp           # Claude Desktop, Cursor, Windsurf (MCP)
 | [commune-ai](https://github.com/shanjairaj7/commune-ai) | TypeScript/Node.js SDK |
 | [commune-python](https://github.com/shanjairaj7/commune-python) | Python SDK (`commune-mail`) |
 | [commune](https://github.com/shanjairaj7/commune) | Open-source backend infrastructure |
+| [agent-stack](https://github.com/shanjairaj7/agent-stack) | Production tool registry — 50+ tools purpose-built for AI agents |
 
 ---
 
