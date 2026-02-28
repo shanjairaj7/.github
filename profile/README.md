@@ -36,12 +36,14 @@ uvx commune-mcp           # Claude Desktop, Cursor, Windsurf (MCP)
 
 | Repo | What it is |
 |------|-----------|
+| [agent-inbox](https://github.com/shanjairaj7/agent-inbox) | Open-source AI email agent — reads, triages, drafts replies. Like Intercom Fin, you own the infra. |
 | [email-for-agents](https://github.com/shanjairaj7/email-for-agents) | 40+ runnable examples — LangChain, CrewAI, Claude, OpenAI, MCP, SMS |
 | [commune-mcp](https://github.com/shanjairaj7/commune-mcp) | MCP server for Claude Desktop, Cursor, Windsurf — `uvx commune-mcp` |
 | [commune-ai](https://github.com/shanjairaj7/commune-ai) | TypeScript/Node.js SDK |
 | [commune-python](https://github.com/shanjairaj7/commune-python) | Python SDK (`commune-mail`) |
 | [commune](https://github.com/shanjairaj7/commune) | Open-source backend infrastructure |
 | [agent-stack](https://github.com/shanjairaj7/agent-stack) | Production tool registry — 50+ tools purpose-built for AI agents |
+| [awesome-agent-protocols](https://github.com/shanjairaj7/awesome-agent-protocols) | Curated list of protocols and tools for AI agent communication |
 
 ---
 
